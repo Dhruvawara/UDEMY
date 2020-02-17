@@ -1,4 +1,4 @@
-package CodingExcercises.SpeedConverter;
+package JAVA.CodingExcercises.SpeedConverter;
 
 public class SpeedConverter {
 

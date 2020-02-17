@@ -1,4 +1,4 @@
-package CodingExcercises.LeapYear;
+package JAVA.CodingExcercises.LeapYear;
 
 /**
  * LeapYearMain
@@ -6,6 +6,7 @@ package CodingExcercises.LeapYear;
 public class LeapYearMain {
 
     public static void main(String[] args) {
-        System.out.print(LeapYear.isLeapYear(1800));;
+        System.out.print(LeapYear.isLeapYear(1800));
+        ;
     }
 }

@@ -1,4 +1,4 @@
-package CodingExcercises.LeapYear;
+package JAVA.CodingExcercises.LeapYear;
 
 /**
  * LeapYear

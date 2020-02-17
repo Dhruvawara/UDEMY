@@ -1,4 +1,4 @@
-package CodingExcercises.TeenNumberChecker;
+package JAVA.CodingExcercises.TeenNumberChecker;
 
 /**
  * TeenNumberChecker

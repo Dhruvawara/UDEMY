@@ -1,4 +1,4 @@
-package CodingExcercises.TeenNumberChecker;
+package JAVA.CodingExcercises.TeenNumberChecker;
 
 /**
  * TeenNumberCheckerMain
@@ -6,7 +6,7 @@ package CodingExcercises.TeenNumberChecker;
 public class TeenNumberCheckerMain {
 
     public static void main(String[] args) {
-        
+
         System.out.print(TeenNumberChecker.hasTeen(11, 13, 25));
     }
 }

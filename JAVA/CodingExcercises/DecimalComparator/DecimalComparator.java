@@ -1,4 +1,4 @@
-package CodingExcercises.DecimalComparator;
+package JAVA.CodingExcercises.DecimalComparator;
 
 /**
  * DecimalComparator
@@ -6,9 +6,9 @@ package CodingExcercises.DecimalComparator;
 public class DecimalComparator {
 
     public static boolean areEqualByThreeDecimalPlaces(double a, double b) {
-        a*=1000;
-        b*=1000;
-        if ((int)a==(int)b) {
+        a *= 1000;
+        b *= 1000;
+        if ((int) a == (int) b) {
             return true;
         } else {
             return false;

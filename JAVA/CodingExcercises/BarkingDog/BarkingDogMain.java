@@ -1,4 +1,4 @@
-package CodingExcercises.BarkingDog;
+package JAVA.CodingExcercises.BarkingDog;
 
 /**
  * BarkingDogMain
