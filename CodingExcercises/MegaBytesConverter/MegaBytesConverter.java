@@ -1,4 +1,4 @@
-package MegaBytesConverter;
+package CodingExcercises.MegaBytesConverter;
 
 /**
  * MegaBytesConverter

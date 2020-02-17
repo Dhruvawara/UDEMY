@@ -1,4 +1,4 @@
-package DecimalComparator;
+package CodingExcercises.DecimalComparator;
 
 /**
  * DecimalComparator

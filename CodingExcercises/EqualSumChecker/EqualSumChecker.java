@@ -1,4 +1,4 @@
-package EqualSumChecker;
+package CodingExcercises.EqualSumChecker;
 
 /**
  * EqualSumChecker

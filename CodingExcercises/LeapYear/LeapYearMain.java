@@ -1,4 +1,4 @@
-package LeapYear;
+package CodingExcercises.LeapYear;
 
 /**
  * LeapYearMain

@@ -1,4 +1,4 @@
-package MegaBytesConverter;
+package CodingExcercises.MegaBytesConverter;
 
 public class MegaBytesConverterMain {
     public static void main(String[] args) {

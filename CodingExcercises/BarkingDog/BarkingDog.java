@@ -1,4 +1,4 @@
-package BarkingDog;
+package CodingExcercises.BarkingDog;
 
 /**
  * BarkingDog
