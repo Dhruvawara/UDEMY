@@ -1,0 +1,85 @@
+h3 {
+  color: #9de3d0;
+  font-size: 3vw;
+  font-family: "Oxanium", sans-serif;
+}
+
+body {
+  text-align: center;
+  font-size: 16px;
+  font-family: "Merriweather", serif;
+  font-weight: normal;
+  margin: 0;
+}
+
+.page-head {
+  background: #e8f9e9;
+  display: inline-block;
+  position: relative;
+  padding-top: 7%;
+  width: 100%;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 65%;
+  bottom: 85%;
+}
+
+.page-heading {
+  color: #baf1a1;
+  display: inline;
+}
+
+.name-heading {
+  padding-bottom: 0;
+  font-size: 6vw;
+  font-family: "Sacramento", sans-serif;
+  margin-bottom: 0;
+}
+
+.some-heading {
+  margin-top: 0;
+  font-size: 2.5vw;
+  font-family: "Oxanium", sans-serif;
+  color: #baf1a1;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 30%;
+}
+
+.bottom-mountain {
+    width: 80%;
+}
+
+.page-body {
+  position: relative;
+  margin-top: 7%;
+}
+
+.profile {
+  display: inline;
+}
+
+.skills {
+    position: relative;
+}
+
+.skill-row {
+  width: 80%;
+  margin: 7% auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-img {
+  width: 25%;
+  float: left;
+  margin-right: 2%;
+}
+
+.des {
+  font-size: 2vw;
+}
